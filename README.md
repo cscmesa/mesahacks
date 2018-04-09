@@ -6,12 +6,12 @@ Registration, for hackers!
 
 Quill is a registration system designed especially for hackathons. For hackers, it’s a clean and streamlined interface to submit registration and confirmation information. For hackathon organizers, it’s an easy way to manage applications, view registration stats, and more!
 
-![Login Splash](./docs/images/screenshots/login.png)
+![Login Splash](/docs/images/screenshots/login.png)
 
 # Features
 ## Quill for Users
 ### Dashboard
-![Dashboard](./docs/images/screenshots/dashboard.png)
+![Dashboard](/docs/images/screenshots/dashboard.png)
 
 After users login, the Dashboard displays the user’s application status and status-specific prompts to resend a verification email, view/edit their application or confirmation forms.
 
@@ -28,7 +28,7 @@ Statuses:
 - User declined admission: the user has been admitted, but will not be attending the event
 
 ### Application
-![Application](./docs/images/screenshots/application.png)
+![Application](/docs/images/screenshots/application.png)
 
 The Application tab takes users to their registration or confirmation form.
 
@@ -39,7 +39,7 @@ Hackathons commonly allow participants to register and be admitted as a team. Th
 Admins can view stats, look through applications, or edit settings from the Admin panel.
 
 ### Stats
-![Stats](./docs/images/screenshots/stats.png)
+![Stats](/docs/images/screenshots/stats.png)
 
 The Stats tab summarizes useful registration statistics on the number of users in each stage of the process, demographic information, and miscellaneous event preferences like shirt sizes, dietary restrictions, or reimbursement requests.
 
